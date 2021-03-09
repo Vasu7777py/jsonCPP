@@ -39,6 +39,10 @@ namespace JSON{
 					throw msg;
 				}
 			}
+
+			std::string getType(){
+				return "List";
+			}
 	};
 }
 
