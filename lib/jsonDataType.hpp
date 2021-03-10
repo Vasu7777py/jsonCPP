@@ -10,7 +10,7 @@ written by Vasu.Subbannavar
 #include <string>
 
 #include "jsonListDataType.hpp"
-#include "jsonDictionaryDataType.hpp"
+#include "jsonDictionary.hpp"
 
 namespace JSON{
 	class Json{};
